@@ -12,3 +12,16 @@ A command-line tool for encoding and decoding URLs with a pyramid ASCII art bann
 - Batch process URLs from files
 - URL encoding cheat sheet display
 - Copies output to clipboard
+
+---
+
+## How to Run
+
+### Prerequisites
+
+Make sure you have Python 3 installed on your system.
+
+Install required Python packages:
+
+```bash
+pip install pyperclip colorama
